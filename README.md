@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hola soy Jose Garcia B. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**josegarcia28/josegarcia28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web Full Stack y creador de soluciones tecnologicas  . Paso la mayor parte del tiempo codificando proyectos destacados o grabando tutoriales..
 
-Here are some ideas to get you started:
+:mailbox: ¡Comunícate conmigo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegarcia28/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:josegarcia28@gmail.com)
+
+<!-- TODO: Add last video link -->
+
+- 🔭 Actualmente trabajo como freelance .
+- :computer: Línea de código más utilizada `git commit -m "Initial Commit"`
+- 🤔 Estoy a sus ordenes para trabajar en cualquier necesidad tecnológica que requiera.
+- 📫 Cómo comunicarse conmigo: josegarcia28@gmail.com
+- 😄 Pronombres: josegarcia28.
+- ⚡ Dato curioso: Soy cristiano, amo a mi familia y me gusta hacer deportes.
+
+#### Tecnologías Top
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Angular Badge](https://img.shields.io/badge/-Angular-E50505?style=for-the-badge&labelColor=black&logo=angular&logoColor=E50505)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
+#### Bizness
+- :paperclip: [Mi Resumen/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :email: josegarcia28@gmail.com
+
+
+<details>
+<summary>
+  Más sobre mi
+</summary>
+
+<br >
+
+Me encanta compartir conocimientos y juntar tutoriales, cursos y publicaciones para ayudar a otros desarrolladores
